@@ -26,4 +26,3 @@ Here is a table detailing what I was supposed to do and if I think I did it:
 |Link to an image in the repository | I think so |
 |Demonstrate a table | I think so |
 
-1
